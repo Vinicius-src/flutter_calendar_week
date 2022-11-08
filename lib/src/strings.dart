@@ -3,13 +3,13 @@ final int maxDayOfWeek = 7;
 
 /// List contain day of week
 const List<String> dayOfWeekDefault = [
-  'MON',
-  'TUE',
-  'WED',
-  'THU',
-  'FRI',
-  'SAT',
-  'SUN'
+  'SEG',
+  'TER',
+  'QUA',
+  'QUI',
+  'SEX',
+  'SAB',
+  'DOM'
 ];
 
 /// List contain titles month
